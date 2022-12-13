@@ -1,4 +1,11 @@
 # svs
+
+Official Implementation of the ICML2021 paper:
+
+**Spectral vertex sparsifiers and pair-wise spanners over distributed graphs** [Link](https://proceedings.mlr.press/v139/zhu21c.html)
+
+***Chunjiang Zhu, Qinqing Liu, Jinbo Bi***. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:12890-12900, 2021.
+
 Guideline to run the experiments:
 1. Run Demo_GenData_hpc.m, to get the graph
 2. Run grid_settings.m, to get the Graph, Shur_Complement in each site, and the original SC.
